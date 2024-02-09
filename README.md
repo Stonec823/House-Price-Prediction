@@ -1,1 +1,1 @@
-# House-Price-Prediction-with-Multiple-Regression
+# House Price Prediction with Multiple Regression
